@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_todos_artigos"
+            android:checked="true"
+            android:title="Todos os artigos" />
+        <item
+            android:id="@+id/nav_android"
+            android:title="Android" />
+        <item
+            android:id="@+id/nav_engenharia_software"
+            android:title="Engenharia de software" />
+        <item
+            android:id="@+id/nav_desenvolvimento_web"
+            android:title="Desenvolvimento Web" />
+    </group>
+
+    <item android:title="Sobre">
+        <menu>
+            <item
+                android:id="@+id/nav_quem_faz"
+                android:icon="@drawable/ic_quem_faz"
+                android:title="Quem faz" />
+            <item
+                android:id="@+id/nav_entrar_contato"
+                android:icon="@drawable/ic_entrar_contato"
+                android:title="Entrar em contato" />
+            <item
+                android:id="@+id/nav_politica_privacidade"
+                android:icon="@drawable/ic_politica_privacidade"
+                android:title="Política de privacidade" />
+        </menu>
+    </item>
+
+</menu>

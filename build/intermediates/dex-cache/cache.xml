@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/viniciusthiengo/Desktop/BlogAPP/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1e894dd503176412b69cf5650c702a452d1a41ff">
+        <dex dex="/Users/viniciusthiengo/Desktop/BlogAPP/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_26a328f38e7e277b596a7eec70ee37cf11319112/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/viniciusthiengo/Desktop/BlogAPP/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/viniciusthiengo/Desktop/BlogAPP/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c2cd698edb686f2f6c30ed8e532acb160145d1b7/classes.dex" />
+    </item>
+
+</items>
