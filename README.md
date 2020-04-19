@@ -2,7 +2,7 @@
 
 Projeto Java Android do artigo [Construindo a Política de Privacidade de Seu Aplicativo Android](https://www.thiengo.com.br/construindo-a-politica-de-privacidade-de-seu-aplicativo-android-agora-obrigatorio) do Blog [Thiengo.com.br](https://www.thiengo.com.br).
 
-Artigo que discute em detalhes o porquê e o como trabalhar as Políticas de Privacidade de aplicativos Android, algo que se tornou obrigatório em 15 de março de 2017 para inúmeros domínios de problemas. 
+Artigo que discute em detalhes o "porquê" e o "como" trabalhar as Políticas de Privacidade de aplicativos Android, algo que se tornou obrigatório em 15 de março de 2017 para inúmeros domínios de problemas. 
 
 <img src="https://www.thiengo.com.br/img/post/normal/hjrfdbrhponuri1gkh2j6aulg201f3d171f19a8d6a6ebe7c21f9d925a7.jpg" width="450" alt="Aplicativo de Blog com Política de Privacidade">
 
